@@ -1,6 +1,8 @@
 # Data-Analysis-on-Games-released
 This project explores video game play times , trends, and projections using Python (pandas, matplotlib, seaborn). The notebook provides insights into platform performance, future projections, and gameplay duration comparisons.
 
+The dataset is imported from Kaggle. Here is the link, https://www.kaggle.com/datasets/b4n4n4p0wer/how-long-to-beat-video-game-playtime-dataset
+
 
 1. Dataset Loading & Cleaning
 
